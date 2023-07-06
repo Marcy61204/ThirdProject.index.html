@@ -1,1 +1,16 @@
+<html>
+  <head>
+    <title>My Third Project</title>
+</head>
+  <body>
+      <video controls src "EncouragingWords.mp4" width "500">
+         This browser does not support this file.
+      </body>
 
+
+
+
+
+
+
+</html>
